@@ -1,16 +1,16 @@
-## Hi there 👋
+### LUYZA PRAZER EM CONHECE-LOS E BEM VINDO AO MEU PERFIL 
 
-<!--
-**luhvic15/luhvic15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é luyza
 
-Here are some ideas to get you started:
+- Estou estudando no Thomaz coelho
+- Estou estudando no alura
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### VOCÊ PODE ENTRAR EM CONTATO COMIGO📫
+
+  luyza.moura@escola.pr.gov.br
+
+  @_vz.luyzaa
+
+  ![_](https://media1.tenor.com/m/Num5frixvKkAAAAd/cat-driving-cat.gif)
+  
